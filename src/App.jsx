@@ -2,7 +2,7 @@ function App() {
   return (
     <div>
       <h1>
-        my first react website on github
+        my first react webpage on github
       </h1>
     </div>
   )
